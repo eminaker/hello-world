@@ -4,10 +4,7 @@
     <strong>Hello, world</strong>
 </p>
 
-<!--
-TODO: Make sure the following URLs are correct and working for your project.
-      Then, remove these comments to display the badges, giving users a quick
-      overview of your package.
+
 
 <p align="center">
     <a href="https://github.com/eminaker/hello-world"><img src="https://img.shields.io/badge/source-eminaker/hello--world-blue.svg?style=flat-square" alt="Source Code"></a>
@@ -18,7 +15,6 @@ TODO: Make sure the following URLs are correct and working for your project.
     <a href="https://codecov.io/gh/eminaker/hello-world"><img src="https://img.shields.io/codecov/c/gh/eminaker/hello-world?label=codecov&logo=codecov&style=flat-square" alt="Codecov Code Coverage"></a>
     <a href="https://shepherd.dev/github/eminaker/hello-world"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fshepherd.dev%2Fgithub%2Feminaker%2Fhello-world%2Fcoverage" alt="Psalm Type Coverage"></a>
 </p>
--->
 
 
 ## About
